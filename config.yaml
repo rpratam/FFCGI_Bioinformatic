@@ -67,7 +67,6 @@ contact: 'rahadian@apps.ipb.ac.id' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.Rmd
-- Pre-requisite.Rmd
 
 # Information for Learners
 learners: 
